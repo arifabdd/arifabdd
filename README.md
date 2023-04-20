@@ -5,8 +5,8 @@
 [![Facebook: follow](https://img.shields.io/badge/-arifabdd-545454?style=flat-square&logo=Facebook&link=https://www.facebook.com/arifabdd/)](https://www.facebook.com/arifabdd/)
 [![Linkedin: connect](https://img.shields.io/badge/-arifabd-545454?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/arifabd/)](https://www.linkedin.com/in/arifabd/)
 [![Instagram: follow](https://img.shields.io/badge/-arifabdd-545454?style=flat-square&logo=Instagram&link=https://www.instagram.com/arifabdd/)](https://www.instagram.com/arifabdd/)
-![GitHub followers](https://img.shields.io/github/followers/23arif?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=23arif.23arif)
+![GitHub followers](https://img.shields.io/github/followers/arifabdd?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=arifabdd.arifabdd)
 
 <img align='right' src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="230" style="margin-top:100px">
 
