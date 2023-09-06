@@ -1,6 +1,16 @@
-<h2><img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="30">  Hi, I'm Arif Abdurahmanov! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h2>
-<p><em>Back-end developer at Proton.az <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Welcome to My GitHub Profile
+
+👋 Hey there, I'm Arif Abdurahmanov – a passionate backend Laravel developer with a knack for crafting robust and efficient web applications. If you're looking for a reliable developer to help bring your ideas to life, you've come to the right place!
+
+## What I Do <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="30">
+
+🚀 I specialize in building the server-side logic that powers web applications. With extensive experience in Laravel – one of the most popular PHP frameworks – I can create scalable, maintainable, and high-performance backend systems that ensure your project's success.
+
+## Get in Touch <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+📫 Interested in working together? Feel free to reach out! Whether you have a project idea or need assistance with an existing system, I'm here to help. You can contact me via email at [a.arif23@mail.ru](mailto:a.arif23@mail.ru) or connect with me on [LinkedIn](https://www.linkedin.com/in/arifabd/).
+
+Let's turn your vision into reality – one line of code at a time! 🌟
 
 [![Facebook: follow](https://img.shields.io/badge/-arifabdd-545454?style=flat-square&logo=Facebook&link=https://www.facebook.com/arifabdd/)](https://www.facebook.com/arifabdd/)
 [![Linkedin: connect](https://img.shields.io/badge/-arifabd-545454?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/arifabd/)](https://www.linkedin.com/in/arifabd/)
@@ -46,7 +56,3 @@ class About extends Me
     }
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
