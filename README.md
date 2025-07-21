@@ -29,7 +29,7 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Proton.az',
+                'company' => '',
                 'position' => 'Back-end developer'         
             ]
         ];
